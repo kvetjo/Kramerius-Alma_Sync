@@ -1,0 +1,113 @@
+Datum a cas zpracovani: 17/01/2023 15:30:27
+Pocet dokumentu k importu: 0
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 2
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+['ahoj', 'test']
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+NoneDatum a cas zpracovani: 17/01/2023 15:32:51
+Pocet dokumentu k importu: 0
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 2
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+['ahoj', 'test']
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+NoneDatum a cas zpracovani: 17/01/2023 15:33:01
+Pocet dokumentu k importu: 3
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 2
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{'3c2ff771-63b3-4dea-a326-339aff68aae7': '990003941310106986', 'ceaa15f3-70f0-4cdd-9e86-d5e5fe0712db': '990000592560106986', '07562992-3299-4c67-b587-9262463a1622': '990001961770106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+['ahoj', 'test']
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+NoneDatum a cas zpracovani: 17/01/2023 15:33:45
+Pocet dokumentu k importu: 0
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 2
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+['ahoj', 'test']
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+None

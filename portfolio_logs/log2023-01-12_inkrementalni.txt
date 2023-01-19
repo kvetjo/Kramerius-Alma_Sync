@@ -1,0 +1,29 @@
+Datum a cas zpracovani: 12/01/2023 16:12:38
+Pocet dokumentu k importu: 5
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 2
+----
+Pocet dokumentu k odstraneni: 1
+Pocet dokumentu pro rucni odstraneni: 1
+Pocet spatne provedenych API odstraneni: 0
+------------------------------
+
+Dokumenty k importu:
+{'ceaa15f3-70f0-4cdd-9e86-d5e5fe0712db': '990000592560106986', 'a9cd76a0-2eee-4cb7-968d-a1769efea9a0': '9925537608606986', '07562992-3299-4c67-b587-9262463a1622': '990001961770106986', '64b9a66f-529f-4701-a9f1-c671098a310b': '990022077540106986', '3c2ff771-63b3-4dea-a326-339aff68aae7': '990003941310106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+['ahoj', 'test']
+
+-------------------------------
+
+Dokumenty k odstraneni
+['9925620693706986']
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+['0d958e78-f1c3-11ea-b327-fa163e4ea95f']
+
+Chybne odstranovani portfolii API:
+{}

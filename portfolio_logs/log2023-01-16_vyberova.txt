@@ -1,0 +1,197 @@
+Datum a cas zpracovani: 16/01/2023 15:28:41
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 1
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{'396f6243-c1f8-4b19-a467-afa08f5090c2': '990016809170106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{'396f6243-c1f8-4b19-a467-afa08f5090c2': [200, '990016809170106986']}
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+NoneDatum a cas zpracovani: 16/01/2023 15:36:59
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 1
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{'396f6243-c1f8-4b19-a467-afa08f5090c2': '990016809170106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{'396f6243-c1f8-4b19-a467-afa08f5090c2': [200, '990016809170106986']}
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+NoneDatum a cas zpracovani: 16/01/2023 15:54:03
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 1
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{'396f6243-c1f8-4b19-a467-afa08f5090c2': '990016809170106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{'396f6243-c1f8-4b19-a467-afa08f5090c2': [200, '990016809170106986']}
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+NoneDatum a cas zpracovani: 16/01/2023 15:57:16
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{'396f6243-c1f8-4b19-a467-afa08f5090c2': '990016809170106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+NoneDatum a cas zpracovani: 16/01/2023 16:23:20
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{'396f6243-c1f8-4b19-a467-afa08f5090c2': '990016809170106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+NoneDatum a cas zpracovani: 16/01/2023 16:24:41
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{'233dd9c5-c5d8-4d05-9886-e78d9ea7ab9d': '990001369460106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+NoneDatum a cas zpracovani: 16/01/2023 16:29:26
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{'d9ea95da-78bc-4a06-8fbe-ebce18270728': '990001370500106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+None

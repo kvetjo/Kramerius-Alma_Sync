@@ -1,0 +1,29 @@
+Datum a cas zpracovani: 11/01/2023 10:25:12
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: Kontrola neprovedena
+Pocet dokumentu pro rucni odstraneni: Kontrola neprovedena
+Pocet spatne provedenych API odstraneni: Kontrola neprovedena
+------------------------------
+
+Dokumenty k importu:
+{'396f6243-c1f8-4b19-a467-afa08f5090c2': '990016809170106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+None
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+None
+
+Chybne odstranovani portfolii API:
+None

@@ -1,0 +1,131 @@
+Datum a čas zpracování: 12/12/2022 11:52:40
+Počet dokumentů k importu: 1
+Počet dokumentů k opravě: 0
+Počet špatně provedených importů: 0
+------------------------------
+
+Dokumenty k importu:
+{'151f711a-fad9-4019-ba7b-baa99f23324d': '990003233110106986'}
+
+Dokumenty k opravě:
+{}
+
+Chybné importy:
+{}Datum a cas zpracovani: 12/12/2022 11:55:11
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+------------------------------
+
+Dokumenty k importu:
+{'151f711a-fad9-4019-ba7b-baa99f23324d': '990003233110106986'}
+
+Dokumenty k oprave:
+{}
+
+Chybne importy:
+{}Datum a cas zpracovani: 12/12/2022 13:35:51
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+------------------------------
+
+Dokumenty k importu:
+{'10a54419-863c-4b9d-9575-fa9da7180b46': '990000581960106986'}
+
+Dokumenty k oprave:
+{}
+
+Chybne importy:
+{}Datum a cas zpracovani: 12/12/2022 13:38:12
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+------------------------------
+
+Dokumenty k importu:
+{'10a54419-863c-4b9d-9575-fa9da7180b46': '990000581960106986'}
+
+Dokumenty k oprave:
+{}
+
+Chybne importy:
+{}Datum a cas zpracovani: 12/12/2022 15:55:25
+Pocet dokumentu k importu: 3
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+------------------------------
+
+Dokumenty k importu:
+{'d4a3483e-8c3e-4c21-8686-2475e745a686': '9925541912806986', '10a54419-863c-4b9d-9575-fa9da7180b46': '990000581960106986', '91e2d4cc-659c-440e-8783-bf581ac63645': '990021993680106986'}
+
+Dokumenty k oprave:
+{}
+
+Chybne importy:
+{}Datum a cas zpracovani: 12/12/2022 15:59:14
+Pocet dokumentu k importu: 3
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+------------------------------
+
+Dokumenty k importu:
+{'d4a3483e-8c3e-4c21-8686-2475e745a686': '9925541912806986', '91e2d4cc-659c-440e-8783-bf581ac63645': '990021993680106986', '10a54419-863c-4b9d-9575-fa9da7180b46': '990000581960106986'}
+
+Dokumenty k oprave:
+{}
+
+Chybne importy:
+{}Datum a cas zpracovani: 12/12/2022 16:01:48
+Pocet dokumentu k importu: 3
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+------------------------------
+
+Dokumenty k importu:
+{'d4a3483e-8c3e-4c21-8686-2475e745a686': '9925541912806986', '10a54419-863c-4b9d-9575-fa9da7180b46': '990000581960106986', '91e2d4cc-659c-440e-8783-bf581ac63645': '990021993680106986'}
+
+Dokumenty k oprave:
+{}
+
+Chybne importy:
+{}Datum a cas zpracovani: 12/12/2022 16:04:10
+Pocet dokumentu k importu: 3
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+------------------------------
+
+Dokumenty k importu:
+{'10a54419-863c-4b9d-9575-fa9da7180b46': '990000581960106986', 'd4a3483e-8c3e-4c21-8686-2475e745a686': '9925541912806986', '91e2d4cc-659c-440e-8783-bf581ac63645': '990021993680106986'}
+
+Dokumenty k oprave:
+{}
+
+Chybne importy:
+{}Datum a cas zpracovani: 12/12/2022 16:11:52
+Pocet dokumentu k importu: 3
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 3
+------------------------------
+
+Dokumenty k importu:
+{'91e2d4cc-659c-440e-8783-bf581ac63645': '990021993680106986', 'd4a3483e-8c3e-4c21-8686-2475e745a686': '9925541912806986', '10a54419-863c-4b9d-9575-fa9da7180b46': '990000581960106986'}
+
+Dokumenty k oprave:
+{}
+
+Chybne importy:
+{'91e2d4cc-659c-440e-8783-bf581ac63645': [None, '990021993680106986'], 'd4a3483e-8c3e-4c21-8686-2475e745a686': [None, '9925541912806986'], '10a54419-863c-4b9d-9575-fa9da7180b46': [None, '990000581960106986']}Datum a cas zpracovani: 12/12/2022 16:12:40
+Pocet dokumentu k importu: 3
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 3
+------------------------------
+
+Dokumenty k importu:
+{'91e2d4cc-659c-440e-8783-bf581ac63645': '990021993680106986', '10a54419-863c-4b9d-9575-fa9da7180b46': '990000581960106986', 'd4a3483e-8c3e-4c21-8686-2475e745a686': '9925541912806986'}
+
+Dokumenty k oprave:
+{}
+
+Chybne importy:
+{'91e2d4cc-659c-440e-8783-bf581ac63645': [None, '990021993680106986'], 'd4a3483e-8c3e-4c21-8686-2475e745a686': [None, '9925541912806986'], '10a54419-863c-4b9d-9575-fa9da7180b46': [None, '990000581960106986']}

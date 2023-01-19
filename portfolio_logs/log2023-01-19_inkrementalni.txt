@@ -1,0 +1,169 @@
+Datum a cas zpracovani: 19/01/2023 14:01:48
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: 0
+Pocet dokumentu pro rucni odstraneni: 0
+Pocet spatne provedenych API odstraneni: 0
+------------------------------
+
+Dokumenty k importu:
+{'413a0ac3-8c8c-4d50-885f-51c46ffe2de3': '990023128400106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+[]
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+[]
+
+Chybne odstranovani portfolii API:
+{}Datum a cas zpracovani: 19/01/2023 14:07:15
+Pocet dokumentu k importu: 0
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: 1
+Pocet dokumentu pro rucni odstraneni: 0
+Pocet spatne provedenych API odstraneni: 0
+------------------------------
+
+Dokumenty k importu:
+{}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+['990023128400106986']
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+[]
+
+Chybne odstranovani portfolii API:
+{}Datum a cas zpracovani: 19/01/2023 14:10:54
+Pocet dokumentu k importu: 0
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: 0
+Pocet dokumentu pro rucni odstraneni: 0
+Pocet spatne provedenych API odstraneni: 0
+------------------------------
+
+Dokumenty k importu:
+{}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+[]
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+[]
+
+Chybne odstranovani portfolii API:
+{}Datum a cas zpracovani: 19/01/2023 14:15:19
+Pocet dokumentu k importu: 0
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: 0
+Pocet dokumentu pro rucni odstraneni: 0
+Pocet spatne provedenych API odstraneni: 0
+------------------------------
+
+Dokumenty k importu:
+{}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+[]
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+[]
+
+Chybne odstranovani portfolii API:
+{}Datum a cas zpracovani: 19/01/2023 14:20:07
+Pocet dokumentu k importu: 1
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: 0
+Pocet dokumentu pro rucni odstraneni: 0
+Pocet spatne provedenych API odstraneni: 0
+------------------------------
+
+Dokumenty k importu:
+{'413a0ac3-8c8c-4d50-885f-51c46ffe2de3': '990023128400106986'}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+[]
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+[]
+
+Chybne odstranovani portfolii API:
+{}Datum a cas zpracovani: 19/01/2023 14:23:31
+Pocet dokumentu k importu: 0
+Pocet dokumentu k oprave: 0
+Pocet spatne provedenych importu: 0
+----
+Pocet dokumentu k odstraneni: 1
+Pocet dokumentu pro rucni odstraneni: 0
+Pocet spatne provedenych API odstraneni: 0
+------------------------------
+
+Dokumenty k importu:
+{}
+
+Dokumenty k importu k rucni oprave:
+{}
+
+Chybne importy API:
+{}
+
+-------------------------------
+
+Dokumenty k odstraneni
+['990023128400106986']
+
+Dokumenty s nutnym rucnim odstranenim portfolia:
+[]
+
+Chybne odstranovani portfolii API:
+{}
